@@ -4,13 +4,13 @@
 
 ### Javascript :
 
-- [ ] Comprendre le "switch" en JavaScript (https://fr.javascript.info/switch)
 - [ ] Comprendre le fonctionnement des fonctions en JavaScript
 - [x] Comprendre l'intérêt et le fonctionnement des boucles en JavaScript (https://fr.javascript.info/while-for)
   - [x] while
   - [x] do while
   - [x] for
   - [x] break / continue
+- [x] Comprendre le "switch" en JavaScript (https://fr.javascript.info/switch)
 
   - [ ] Fonctions Déclarations (https://fr.javascript.info/function-basics)
   - [ ] Fonctions Expressions (https://fr.javascript.info/function-expressions)
