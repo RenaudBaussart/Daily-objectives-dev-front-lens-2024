@@ -6,10 +6,6 @@
 
 ### Première introduction au langage Javascript :
 
-- [ ] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
-  - [ ] concaténation
-  - [ ] précédence des opérateurs
-  - [ ] préfix & postfix
 - [x] Comprendre la structure du code et la syntaxe en JavaScript :
   - [x] EcmaScript vs JavaScript
     - [x] l'importance de la ponctuation
@@ -25,3 +21,7 @@
 - [x] Comprendre le fonctionnement des variables en JavaScript (https://fr.javascript.info/variables)
 - [x] Découvrir les types de données en JavaScript (https://fr.javascript.info/types)
 - [x] Comprendre _Les conversions de types_ en JavaScript (https://fr.javascript.info/type-conversions)
+- [x] Comprendre les mécanismes des opérateurs mathématiques en JavaScript (https://fr.javascript.info/operators) :
+  - [x] concaténation
+  - [x] précédence des opérateurs
+  - [x] préfix & postfix
