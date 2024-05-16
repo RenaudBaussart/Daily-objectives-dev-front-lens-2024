@@ -4,9 +4,6 @@
 
 ### Javascript :
 
-- [ ] Comprendre les conditions en JavaScript (https://fr.javascript.info/ifelse)
-  - [ ] if else
-  - [ ] ternaire
 - [ ] Comprendre le fonctionnement des opérateurs logiques (https://fr.javascript.info/logical-operators)
   - [ ] `||` (OR)
   - [ ] `&&` (AND)
@@ -16,3 +13,6 @@
   - [x] Le mécanisme sous-jacent d'une comparaison de deux éléments en JavaScript (types différents)
   - [x] La comparaison entre 2 chaines de caractères
   - [x] La spécificté de null et undefined
+- [x] Comprendre les conditions en JavaScript (https://fr.javascript.info/ifelse)
+  - [x] if else
+  - [x] ternaire
