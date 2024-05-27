@@ -9,12 +9,12 @@
   - [x] Comprendre sa structure.
   - [x] Comprendre l'auto-correction du DOM.
 - Savoir naviguer dans le DOM :
-  - documentElement
-  - childNodes
-  - firstChild
-  - lastChild
-  - siblings
 - Savoir récupérer des éléments du DOM :
   - querySelector
   - getElement..
   - Comprendre le principe de 'Live-Collection'.
+  - [x] documentElement
+  - [x] childNodes
+  - [x] firstChild
+  - [x] lastChild
+  - [x] siblings
