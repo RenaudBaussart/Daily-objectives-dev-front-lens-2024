@@ -5,17 +5,17 @@
 ### DOM :
 
 - Savoir modifier le document (https://javascript.info/modifying-document) :
-  - Savoir insérer un élément dans le document :
-    - append
-    - prepend
-    - before
-      - beforeBegin
-      - beforeEnd
-    - after
-      - afterBegin
-      - afterEnd
-    - replaceWith
   - Savoir supprimer un noœud.
   - Savoir cloner un noœud.
   - Comprendre `documentFragment`.
   - Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.  - [x] Savoir créer un élément HTML dans le document.
+  - [x] Savoir insérer un élément dans le document :
+    - [x] append  <!-- before <baliseVisé> prepend  append </baliseVisé> after -->
+    - [x] prepend 
+    - [x] before
+      - [x] beforeBegin 
+      - [x] beforeEnd
+    - [x] after
+      - [x] afterBegin
+      - [x] afterEnd
+    - [x] replaceWith <!--replace l'objet selectioner par se que l'on veux-->
