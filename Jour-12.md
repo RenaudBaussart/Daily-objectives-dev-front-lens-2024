@@ -9,6 +9,7 @@
   - Savoir cloner un noœud.
   - Comprendre `documentFragment`.
   - Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités.  - [x] Savoir créer un élément HTML dans le document.
+  - [x] Savoir créer un élément HTML dans le document.
   - [x] Savoir insérer un élément dans le document :
     - [x] append  <!-- before <baliseVisé> prepend  append </baliseVisé> after -->
     - [x] prepend 
