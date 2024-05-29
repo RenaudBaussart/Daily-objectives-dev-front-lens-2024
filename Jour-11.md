@@ -4,10 +4,10 @@
 
 ### DOM :
 
-- Comprendre les propriétés des nœuds (https://javascript.info/basic-dom-node-properties) :
-  - nodeType
-  - innerHTML
-  - outerHTML
-  - textContent
+- [x] Comprendre les propriétés des nœuds (https://javascript.info/basic-dom-node-properties) :
+  - [x] nodeType
+  - [x] innerHTML
+  - [x] outerHTML
+  - [x] textContent
   - ...
 - Connaitre les attributs et propriétés du DOM (https://javascript.info/dom-attributes-and-properties)
