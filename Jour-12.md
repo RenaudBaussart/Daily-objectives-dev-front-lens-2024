@@ -20,3 +20,4 @@
   - [x] Savoir cloner un noœud.
   - [x] Comprendre `documentFragment`.
   - [x] Connaitre `document.write`, pourquoi il faut faire attention lors de son utilisation et ses spécificités. `c'est une tres vielle methode avant que`
+                                                                                                                  `le DOM existe. il peut aussi suprimer une partie du dom`
