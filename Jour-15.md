@@ -4,7 +4,6 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Comprendre ce qu'est un objet.
 - [ ] Comprendre le principe d'encapsulation :
   - [ ] Qu'est ce que l'encapsulation ?
   - [ ] À quoi sert l'encapsulation ?
@@ -22,3 +21,4 @@
     - [x] Quelle différence avec les fonctions ?<!--la method est associé a un object-->
     - [x] Utilité ?<!--definire le comportement de l'object-->
     - [x] Getters / Setters.<!--getter vien recupérer et setter vient la definire-->
+- [x] Comprendre ce qu'est un objet.<!--un objet est boite qui stock un valeur et sa clef-->
