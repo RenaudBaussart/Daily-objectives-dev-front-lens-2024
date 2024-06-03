@@ -4,7 +4,6 @@
 
 ### POO (Programmation Orientée Objet) :
 
-- [ ] Comprendre le principe d'instance.
 - [ ] Comprendre ce qu'est une classe.
   - [ ] Quelles différences entre classes concrètes et abstraites ?
   - [ ] Comprendre ce qu'est le constructeur (`constructor`)
@@ -22,3 +21,4 @@
   - [ ] Comprendre le principe de "scope" (portée en français)
   - [ ] Pourquoi c'est un principe fondamental de la POO.- [x] Est-ce que JS est un langage Orienté Objet ? <!--oui et non js est la laguage ou on a tordu le prototypage pour fait de l'objet-->
 - [x] Est-ce que JS est un langage Orienté Objet ? <!--oui et non js est la laguage ou on a tordu le prototypage pour fait de l'objet-->
+- [x] Comprendre ce qu'est l'abstraction.<!--c'est une maniere de reduire la complexité en la "cachant" dans une fonction/class/module.... -->
