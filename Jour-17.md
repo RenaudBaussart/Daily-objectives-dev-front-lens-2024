@@ -25,4 +25,4 @@
 
 ### TypeScript
 
-- [ ] Qu'est ce que TypeScript ?
+- [x] Qu'est ce que TypeScript ?
