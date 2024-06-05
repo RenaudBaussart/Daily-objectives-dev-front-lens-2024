@@ -5,7 +5,6 @@
 ### Node :
 
 - [x] Installation de NodeJS
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
   - [ ] Comprendre les différences entre les package managers et en choisir un.
   - [ ] Comprendre ce qu'est un package Node.
   - [ ] Savoir faire les commandes de bases :
@@ -15,6 +14,7 @@
     - [ ] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
 - [x] Quelle est la différence entre Node et NPM
+- [x] Découverte de "NPM", "Yarn" et "PNPM"
 - [ ] Découvrir les linters et formaters
 - [ ] Quelle est la différence entre un linter et un formater
 - [ ] Quels sont les principaux outils les plus répandus ?
