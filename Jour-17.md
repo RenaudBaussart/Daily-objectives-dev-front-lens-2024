@@ -15,13 +15,13 @@
     - [x] Installer un package (local et global)
     - [x] Désinstaller un package (local et global)
     - [x] Mettre jour les packages (local et global) et le package manager
-- [ ] Découvrir les linters et formaters
-- [ ] Quelle est la différence entre un linter et un formater
-- [ ] Quels sont les principaux outils les plus répandus ?
-- [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
-- [ ] Qu'est ce que "Nodemon" :
-  - [ ] À quoi ça sert ?
 - [ ] Créer son premier "Hello World!" avec Node.
+- [x] Découvrir les linters et formaters <!--les linter vienne relever des erreur dans le code telle que les convetion/best practice/pb de style alors que le formateur restructure automatiquement le code-->
+- [x] Quelle est la différence entre un linter et un formater
+- [x] Quels sont les principaux outils les plus répandus ?
+- [x] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?<!--il est préferable de le metre ne local-->
+- [x] Qu'est ce que "Nodemon" :<!--nodemon est lequivalent pour node de --watch dans sass-->
+  - [x] À quoi ça sert ?
 
 ### TypeScript
 
