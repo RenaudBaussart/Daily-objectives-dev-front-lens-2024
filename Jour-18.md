@@ -13,8 +13,8 @@
 - [x] Comprendre ce qu'est un composant ([ici](https://angular.dev/guide/components)).
 - Savoir manipuler les composants :
   - Savoir importer / réutiliser des composants.
-  - Savoir utiliser les sélecteurs CSS avec Angular.
-  - Savoir appliquer du style aux composants.
+  - [x] Savoir utiliser les sélecteurs CSS avec Angular.
+  - [x] Savoir appliquer du style aux composants.
   - Savoir bind des propriétés aux composants.
   - Savoir déclencher des événements depuis les composants.
   - Comprendre et savoir utiliser la fonction `output`.
