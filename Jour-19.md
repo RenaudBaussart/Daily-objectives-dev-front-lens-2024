@@ -4,10 +4,6 @@
 
 ### Angular :
 
-- Comprendre ce que sont les `pipes` **dans Angular** ([ici](https://angular.dev/guide/pipes)).
-  - Connaitre les différentes pipes intégrées à Angular et comprendre à quoi elles servent.
-  - Savoir utiliser la pipe `Date`.
-  - Comprendre la précédence des pipes.- [x] Comprendre ce qu'est un `template` **dans Angular** ([ici](https://angular.dev/guide/templates)).
 - [x] Comprendre ce qu'est un `template` **dans Angular** ([ici](https://angular.dev/guide/templates)).
   - [x] Comprendre l'interpolation de texte.
   - [x] Comprendre les templates de déclarations.
@@ -20,3 +16,7 @@
   - [x] Comprendre le binding d'évènements.
   - [x] Comprendre ce qu'est le binding à double sens.
   - [x] Comprendre le flux de controle (controller le flux d'exécution dans un template).
+- [x] Comprendre ce que sont les `pipes` **dans Angular** ([ici](https://angular.dev/guide/pipes)).
+  - [x] Connaitre les différentes pipes intégrées à Angular et comprendre à quoi elles servent.
+  - [x] Savoir utiliser la pipe `Date`.
+  - [x] Comprendre la précédence des pipes.
