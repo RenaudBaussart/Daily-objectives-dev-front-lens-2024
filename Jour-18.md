@@ -15,8 +15,8 @@
   - [x] Savoir importer / réutiliser des composants.
   - [x] Savoir utiliser les sélecteurs CSS avec Angular.
   - [x] Savoir appliquer du style aux composants.
-  - Comprendre `ng-content`.
   - Comprendre le cycle de vie des composants et les événements liés.
   - Savoir faire de l'héritage avec les composants.  - [x] Savoir bind des propriétés aux composants.
   - [x] Savoir bind des propriétés aux composants.
   - [x] Savoir déclencher des événements depuis les composants.
+  - [x] Comprendre et savoir utiliser la fonction `output`.
